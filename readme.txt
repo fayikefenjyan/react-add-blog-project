@@ -1,0 +1,1 @@
+Also must be side-launched JSON server` npx json-server --watch data/db.json --port 8000 or other port(!== 3000)
